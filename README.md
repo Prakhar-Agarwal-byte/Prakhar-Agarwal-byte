@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Prakhar Agarwal</h1>
-<h3 align="center">A passionate fullstack and Android developer</h3>
+<h3 align="center">A passionate Android and Fullstack developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prakhar-agarwal-byte&label=Profile%20views&color=0e75b6&style=flat" alt="prakhar-agarwal-byte" /> </p>
 
@@ -7,7 +7,7 @@
 
 - 🔭I’m currently working on **MERN stack**
 
-- 🌱 I’m currently learning **machine learning**
+- 🌱 I’m currently learning **Machine Learning**
 
 - 👯 I’m looking to collaborate on **many open source projects**
 
