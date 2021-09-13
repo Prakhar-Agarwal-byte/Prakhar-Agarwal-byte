@@ -7,7 +7,7 @@
 
 - 🔭I’m currently working on **MERN stack**
 
-- 🌱 I’m currently learning **Machine Learning**
+- 🌱 I’m currently learning **CP**
 
 - 👯 I’m looking to collaborate on **many open source projects**
 
